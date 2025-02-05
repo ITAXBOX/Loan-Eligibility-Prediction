@@ -27,7 +27,7 @@ In today's fast-paced world, financial institutions like Dream Housing Finance C
 ---
 
 ## Problem Statement
-The lack of access to clean drinking water is a global issue, particularly in developing regions. Traditional methods of water quality testing are often time-consuming and resource-intensive. This project addresses the need for a **fast and accurate method** to predict loan eligibility using machine learning. By leveraging physicochemical parameters, the model can classify applicants as eligible or ineligible for a loan, enabling quicker decision-making and resource allocation.
+The primary objective of this project is to build a predictive model that can automatically determine whether a customer is eligible for a home loan based on various parameters provided during the online application process. We will use a Decision Tree algorithm to achieve this. Decision Trees are a popular choice for classification tasks due to their simplicity, interpretability, and ability to handle both numerical and categorical data.
 
 ---
 
